@@ -20,6 +20,6 @@ void main() {
     }
 
     gl_FragColor = vec4(
-        cos(len * 2.3), cos(len - .3), cos(len - .1), 1.0
+        cos(len * 2.3), cos(len - .3), cos(len - .1), 1.1
     ); 
 }
